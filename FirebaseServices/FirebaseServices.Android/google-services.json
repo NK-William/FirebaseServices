@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "849871469354",
+    "project_id": "f-services-e3bf2",
+    "storage_bucket": "f-services-e3bf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849871469354:android:22ec800971f51ddfd3bc53",
+        "android_client_info": {
+          "package_name": "tw.william.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849871469354-qtp5rt7q2kf1fhrqla3nbpdt1e2cn190.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPqufDZ43TOkJmhERjy_H6h1dFNFHzyKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849871469354-qtp5rt7q2kf1fhrqla3nbpdt1e2cn190.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
