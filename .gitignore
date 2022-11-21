@@ -362,5 +362,8 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 
-# google-services Json file
+# Android google-services Json file
 FirebaseServices/FirebaseServices.Android/google-services.json
+
+# iOS google-services plist file
+FirebaseServices/FirebaseServices.iOS/GoogleService-Info.plist

@@ -11,6 +11,7 @@ using System.Text;
 using Plugin.FirebasePushNotification;
 
 using A = Plugin.FirebasePushNotification;
+using Firebase;
 
 namespace FirebaseServices.Droid
 {
@@ -27,7 +28,7 @@ namespace FirebaseServices.Droid
 
             //Set the default notification channel for your app when running Android Oreo
             if (Build.VERSION.SdkInt >= Android.OS.BuildVersionCodes.O)
-            { 
+            {
                 //Change for your default notification channel id here
                 FirebasePushNotificationManager.DefaultNotificationChannelId = "FirebasePushNotificationChannel";
 
