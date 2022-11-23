@@ -367,3 +367,6 @@ FirebaseServices/FirebaseServices.Android/google-services.json
 
 # iOS google-services plist file
 FirebaseServices/FirebaseServices.iOS/GoogleService-Info.plist
+
+# google services private_key
+FirebaseServices/FirebaseServices.Send/private_key.json

@@ -20,6 +20,7 @@ namespace FirebaseServices
         {
             InitializeComponent();
 
+            CrossFirebasePushNotification.Current.Subscribe("all");
             CrossFirebasePushNotification.Current.OnTokenRefresh += Current_OnTokenRefresh;
 
             await NavigationService.NavigateAsync("NavigationPage/MainPage");
